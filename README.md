@@ -1,16 +1,19 @@
-Ejercicio - 1
+# Ejercicio-1
+# Suma de dos números
 
 Inicio: Suma de dos números
 
-Ingreso datos
+## Ingreso datos
 
-numero1
-numero2
-resultado
-Proceso
+- numero1
+- numero2
+- resultado
 
-Pedir numero1
-Pedír numero2
-Sumar numero1 con numero2 y almacenar en resultado
-Mostrar resultado
+## Proceso
+
+- Pedir numero1
+- Pedír numero2
+- Sumar numero1 con numero2 y almacenar en resultado
+- Mostrar resultado
+
 Fin
